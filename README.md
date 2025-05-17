@@ -1,4 +1,4 @@
-# Luxe Smart Systems: Intelligent Ecosystem with JuliaOS Integration
+# Omnithesis: Intelligent Ecosystem with JuliaOS Integration
 
 *JuliaOS + Next.js + Supabase*
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Luxe Smart Systems is an innovative platform built on Next.js with powerful JuliaOS technology integration for building decentralized applications with agent-based architecture, swarm intelligence, and cross-chain operations. Our project combines a modern web interface on Next.js, reliable data storage through Supabase, and high-performance computing based on Julia.
+Omnithesis is an innovative platform built on Next.js with powerful JuliaOS technology integration for building decentralized applications with agent-based architecture, swarm intelligence, and cross-chain operations. Our project combines a modern web interface on Next.js, reliable data storage through Supabase, and high-performance computing based on Julia.
 
 The system includes implementations of agents, swarm algorithms, blockchain interactions, DEX operations, storage, and cross-chain bridges. Its modular architecture ensures easy extension and integration with existing components. The Julia backend provides high-performance computing, while the TypeScript/JavaScript frontend offers a user-friendly interface. The Python interface provides capabilities for working with LangChain, various LLM providers, and Google ADK.
 
@@ -39,10 +39,10 @@ The system includes implementations of agents, swarm algorithms, blockchain inte
 
 ## Architecture
 
-Luxe Smart Systems follows a client-server architecture with a modular design:
+Omnithesis Systems follows a client-server architecture with a modular design:
 
 ```
-LuxeSmartSystems/
+Omnithesis/
 ├── app/                   # Next.js application
 │   ├── components/        # React components
 │   ├── api/               # Next.js API routes
